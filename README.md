@@ -9,3 +9,6 @@ python3 manage.py runserver
 http://localhost:8000/
 ```
 ![ajax.png](ajax.png)
+
+
+Project Implemented on [Academic Master](https://academic-master.com/)
